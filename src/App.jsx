@@ -1,11 +1,10 @@
 
-import './App.css'
-
+import TabsComponent from "./TabsComponents"
 function App() {
 
   return (
     <>
-      
+      <TabsComponent/>
     </>
   )
 }
